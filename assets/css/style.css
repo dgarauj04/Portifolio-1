@@ -161,7 +161,7 @@ main .intro .container .links a:hover {
 .webview .sobre .container .row .photo .border-img {
   width: 93%;
   height: 94%;
-  margin-top: 8%;
+  margin-top: 10%;
   margin-left: 10%;
   position: absolute;
   z-index: -1;
@@ -291,8 +291,8 @@ main .intro .container .links a:hover {
   margin-bottom: 2rem;
 }
 .webview .servicos .container .area-carrossel .carrossel-container .owl-carrossel .carrossel-item {
-  min-height: 5rem;
-  min-width: 25rem;
+  min-height: 10%;
+  min-width: 45%;
   background-color: #fff;
   color: #8e1e1e;
   margin-bottom: 1rem;
