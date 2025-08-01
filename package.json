@@ -1,0 +1,20 @@
+{
+  "name": "portifolio-2",
+  "version": "1.0.0",
+  "description": "Portifloio basico para publico",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch style.scss ./assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgarauj04/Portifolio-2.git"
+  },
+  "author": "Douglas Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgarauj04/Portifolio-2/issues"
+  },
+  "homepage": "https://github.com/dgarauj04/Portifolio-2#readme"
+}
